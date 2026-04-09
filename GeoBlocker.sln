@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36915.13 d17.14
+VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoBlocker", "GeoBlocker\GeoBlocker.csproj", "{27A0716D-0DD7-4871-8AC8-2E42E40DD651}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controllers", "Controllers\Controllers.csproj", "{3C4F33B3-A94B-49D8-B2E3-98AF69D161C5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{E5A22B75-8012-49EF-B287-60E5116B3D66}"
 EndProject
@@ -25,10 +23,6 @@ Global
 		{27A0716D-0DD7-4871-8AC8-2E42E40DD651}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27A0716D-0DD7-4871-8AC8-2E42E40DD651}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27A0716D-0DD7-4871-8AC8-2E42E40DD651}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3C4F33B3-A94B-49D8-B2E3-98AF69D161C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3C4F33B3-A94B-49D8-B2E3-98AF69D161C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3C4F33B3-A94B-49D8-B2E3-98AF69D161C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3C4F33B3-A94B-49D8-B2E3-98AF69D161C5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E5A22B75-8012-49EF-B287-60E5116B3D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E5A22B75-8012-49EF-B287-60E5116B3D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5A22B75-8012-49EF-B287-60E5116B3D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
